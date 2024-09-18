@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ---
 
-Project update to use React + TypeScript + Vite
+# Project update to use React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
